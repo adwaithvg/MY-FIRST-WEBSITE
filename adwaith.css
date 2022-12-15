@@ -1,0 +1,244 @@
+#main{
+    right: 0;
+    bottom: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+}
+#first{
+    width: 50px;
+    height: 290px;
+    background: red;
+    float: left;
+    margin-left: 25px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+#second{
+    width: 50px;
+    height: 215px;
+    background: orange;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+    
+
+}
+.third{
+    width: 50px;
+    height: 130px;
+    background: yellow;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+
+}
+.fourth{
+    width: 50px;
+    height: 65px;
+    background: green;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+
+}
+.fifth{
+    width: 50px;
+    height: 130px;
+    background: blue;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+
+}
+.sixth{
+    width: 50px;
+    height: 215px;
+    background: indigo;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+
+}
+.seventh{
+    width: 50px;
+    height: 290px;
+    background: violet;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+
+}
+.eight{
+    width: 50px;
+    height: 290px;
+    background: red;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.nine{
+    width: 50px;
+    height: 215px;
+    background: orange;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.ten{
+    width: 50px;
+    height: 130px;
+    background: yellow;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.elevan{
+    width: 50px;
+    height: 65px;
+    background: green;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.twelve{
+    width: 50px;
+    height: 130px;
+    background: blue;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.thirteen{
+    width: 50px;
+    height: 215px;
+    background: indigo;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.fourteen{
+    width: 50px;
+    height: 290px;
+    background: violet;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.fifteen{
+    width: 50px;
+    height: 290px;
+    background: red;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.sixteen{
+    width: 50px;
+    height: 215px;
+    background: orange;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.seventeen{
+    width: 50px;
+    height: 130px;
+    background: yellow;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.eighteen{
+    width: 50px;
+    height: 65px;
+    background: green;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.nineteen{
+    width: 50px;
+    height: 130px;
+    background: blue;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.twenty{
+    width: 50px;
+    height: 215px;
+    background: indigo;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+.twentyone{
+    width: 50px;
+    height: 290px;
+    background: violet;
+    float: left;
+    margin-left: 10px;
+    -webkit-animation: glow linear 1s infinite; 
+    animation: glow linear 5s infinite;
+    position: relative;
+}
+@-webkit-keyframes glow { 
+    33.33% { background-color:red; }
+    33.33% { background-color:orange; }
+    33.33% { background-color:yellow; }
+    33.33% { background-color:green; }
+    33.33% { background-color:blue; }
+    33.33% { background-color:indigo; }
+    33.33% { background-color:violet; } 
+
+} 
+@keyframes glow { 
+    14% { background-color:red; }
+    28% { background-color:orange; }
+    42% { background-color:yellow; }
+    56% { background-color:green; }
+    70% { background-color:blue; }
+    84% { background-color:indigo; }
+    98% { background-color:violet; } 
+}
